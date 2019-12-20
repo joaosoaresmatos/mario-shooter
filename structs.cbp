@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="jogo" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/structs" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="imagens" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="include" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/structs" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="C:/Program Files (x86)/CodeBlocks/MinGW/bin" />
+				<Option object_output="obj/Release/" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add directory="C:/Program Files (x86)/CodeBlocks/MinGW/include" />
+		</Compiler>
+		<Linker>
+			<Add option="-lSOIL" />
+			<Add option="-lSDL2" />
+			<Add option="-lSDL2_mixer" />
+			<Add library="winmm" />
+			<Add library="glut32" />
+			<Add library="opengl32" />
+			<Add library="glu32" />
+			<Add library="gdi32" />
+			<Add directory="C:/Program Files (x86)/CodeBlocks/MinGW/lib" />
+		</Linker>
+		<Unit filename="include/alvo.h">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="include/botao.h">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="include/fundo.h">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="include/mira.h" />
+		<Unit filename="include/posicao.h" />
+		<Unit filename="include/som.h">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="include/tamanho.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="main.cpp" />
+		<Unit filename="src/alvo.cpp">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="src/botao.cpp">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="src/fundo.cpp">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="src/mira.cpp" />
+		<Unit filename="src/posicao.cpp" />
+		<Unit filename="src/som.cpp">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="src/tamanho.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

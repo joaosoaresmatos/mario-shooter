@@ -1,0 +1,933 @@
+# depslib dependency file v1.0
+1443058506 source:c:\users\joao matos\desktop\tp1 computacao grafica\main.cpp
+	"posicao.h"
+	"tamanho.h"
+	"fundo.h"
+	"mira.h"
+	"botao.h"
+	"alvo.h"
+	<string.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<GL/freeglut.h>
+	<time.h>
+	<SOIL.h>
+	"som.h"
+
+1442693628 c:\users\joao matos\desktop\tp1 computacao grafica\include\posicao.h
+
+1442693628 c:\users\joao matos\desktop\tp1 computacao grafica\include\tamanho.h
+
+1442694865 c:\users\joao matos\desktop\tp1 computacao grafica\include\mira.h
+	"posicao.h"
+	"tamanho.h"
+	<GL/freeglut.h>
+	<SOIL.h>
+
+1341010376 c:\program files (x86)\codeblocks\mingw\include\string.h
+	<_mingw.h>
+	<stddef.h>
+
+1341010370 c:\program files (x86)\codeblocks\mingw\include\_mingw.h
+
+1341010374 c:\program files (x86)\codeblocks\mingw\include\math.h
+	<_mingw.h>
+
+1341010376 c:\program files (x86)\codeblocks\mingw\include\stdio.h
+	<_mingw.h>
+	<stddef.h>
+	<stdarg.h>
+	<sys/types.h>
+
+1341010380 c:\program files (x86)\codeblocks\mingw\include\sys\types.h
+	<_mingw.h>
+	<stddef.h>
+
+1341010376 c:\program files (x86)\codeblocks\mingw\include\stdlib.h
+	<_mingw.h>
+	<stddef.h>
+
+1443058378 source:c:\users\joao matos\desktop\tp1 computacao grafica\src\alvo.cpp
+	"alvo.h"
+	"posicao.h"
+	"tamanho.h"
+	<stdlib.h>
+	<GL/freeglut.h>
+	<math.h>
+	<stdio.h>
+	<time.h>
+	<SOIL.h>
+
+1443058378 c:\users\joao matos\desktop\tp1 computacao grafica\include\alvo.h
+	"posicao.h"
+	"tamanho.h"
+	<GL/freeglut.h>
+	<SOIL.h>
+	<SDL_mixer.h>
+	<SDL.h>
+
+1442936823 source:c:\users\joao matos\desktop\tp1 computacao grafica\src\mira.cpp
+	"mira.h"
+	<stdio.h>
+	<SOIL.h>
+	<GL/freeglut.h>
+
+1441398511 source:c:\users\joao matos\desktop\tp1 computacao grafica\src\posicao.cpp
+	"posicao.h"
+
+1441979421 source:c:\users\joao matos\desktop\tp1 computacao grafica\src\tamanho.cpp
+	"tamanho.h"
+
+1440547110 c:\program files (x86)\codeblocks\mingw\include\gl\glut.h
+	<windows.h>
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1301114762 c:\program files (x86)\codeblocks\mingw\include\windows.h
+	<winresrc.h>
+	<stdarg.h>
+	<windef.h>
+	<wincon.h>
+	<winbase.h>
+	<wingdi.h>
+	<winuser.h>
+	<winnls.h>
+	<winver.h>
+	<winnetwk.h>
+	<winreg.h>
+	<winsvc.h>
+	<cderr.h>
+	<dde.h>
+	<ddeml.h>
+	<dlgs.h>
+	<imm.h>
+	<lzexpand.h>
+	<mmsystem.h>
+	<nb30.h>
+	<rpc.h>
+	<shellapi.h>
+	<winperf.h>
+	<commdlg.h>
+	<winspool.h>
+	<winsock2.h>
+	<winsock.h>
+	<ole2.h>
+
+1301114762 c:\program files (x86)\codeblocks\mingw\include\winresrc.h
+	<winuser.h>
+	<winnt.h>
+	<winver.h>
+	<dde.h>
+	<dlgs.h>
+	<commctrl.h>
+
+1301114764 c:\program files (x86)\codeblocks\mingw\include\winuser.h
+
+1301114762 c:\program files (x86)\codeblocks\mingw\include\winnt.h
+	<winerror.h>
+	<string.h>
+	<basetsd.h>
+	<pshpack4.h>
+	<poppack.h>
+
+1301114762 c:\program files (x86)\codeblocks\mingw\include\winerror.h
+
+1301114748 c:\program files (x86)\codeblocks\mingw\include\basetsd.h
+
+1301114756 c:\program files (x86)\codeblocks\mingw\include\pshpack4.h
+
+1301114756 c:\program files (x86)\codeblocks\mingw\include\poppack.h
+
+1301114764 c:\program files (x86)\codeblocks\mingw\include\winver.h
+
+1301114748 c:\program files (x86)\codeblocks\mingw\include\dde.h
+
+1301114750 c:\program files (x86)\codeblocks\mingw\include\dlgs.h
+
+1301114748 c:\program files (x86)\codeblocks\mingw\include\commctrl.h
+	<prsht.h>
+
+1301114756 c:\program files (x86)\codeblocks\mingw\include\prsht.h
+
+1301114762 c:\program files (x86)\codeblocks\mingw\include\windef.h
+	<winnt.h>
+
+1301114762 c:\program files (x86)\codeblocks\mingw\include\wincon.h
+
+1301114760 c:\program files (x86)\codeblocks\mingw\include\winbase.h
+
+1301114762 c:\program files (x86)\codeblocks\mingw\include\wingdi.h
+
+1301114762 c:\program files (x86)\codeblocks\mingw\include\winnls.h
+
+1301114762 c:\program files (x86)\codeblocks\mingw\include\winnetwk.h
+
+1301114762 c:\program files (x86)\codeblocks\mingw\include\winreg.h
+
+1301114764 c:\program files (x86)\codeblocks\mingw\include\winsvc.h
+
+1301114748 c:\program files (x86)\codeblocks\mingw\include\cderr.h
+
+1301114748 c:\program files (x86)\codeblocks\mingw\include\ddeml.h
+
+1301114750 c:\program files (x86)\codeblocks\mingw\include\imm.h
+
+1301114754 c:\program files (x86)\codeblocks\mingw\include\lzexpand.h
+
+1301114754 c:\program files (x86)\codeblocks\mingw\include\mmsystem.h
+
+1301114754 c:\program files (x86)\codeblocks\mingw\include\nb30.h
+
+1301114758 c:\program files (x86)\codeblocks\mingw\include\rpc.h
+	<windows.h>
+	<rpcdce.h>
+	<rpcnsi.h>
+	<rpcnterr.h>
+	<winerror.h>
+	<excpt.h>
+
+1301114758 c:\program files (x86)\codeblocks\mingw\include\rpcdce.h
+	<basetyps.h>
+	<rpcdcep.h>
+
+1301114748 c:\program files (x86)\codeblocks\mingw\include\basetyps.h
+
+1301114758 c:\program files (x86)\codeblocks\mingw\include\rpcdcep.h
+
+1301114758 c:\program files (x86)\codeblocks\mingw\include\rpcnsi.h
+
+1301114758 c:\program files (x86)\codeblocks\mingw\include\rpcnterr.h
+
+1341010372 c:\program files (x86)\codeblocks\mingw\include\excpt.h
+	<_mingw.h>
+	<windef.h>
+
+1301114760 c:\program files (x86)\codeblocks\mingw\include\shellapi.h
+	<pshpack2.h>
+	<poppack.h>
+
+1301114756 c:\program files (x86)\codeblocks\mingw\include\pshpack2.h
+
+1301114762 c:\program files (x86)\codeblocks\mingw\include\winperf.h
+
+1301114748 c:\program files (x86)\codeblocks\mingw\include\commdlg.h
+	<unknwn.h>
+	<prsht.h>
+
+1301114760 c:\program files (x86)\codeblocks\mingw\include\unknwn.h
+	<windows.h>
+	<objfwd.h>
+	<wtypes.h>
+
+1301114756 c:\program files (x86)\codeblocks\mingw\include\objfwd.h
+	<basetyps.h>
+
+1301114764 c:\program files (x86)\codeblocks\mingw\include\wtypes.h
+	<rpc.h>
+	<rpcndr.h>
+
+1301114758 c:\program files (x86)\codeblocks\mingw\include\rpcndr.h
+	<rpcnsip.h>
+	<objfwd.h>
+
+1301114758 c:\program files (x86)\codeblocks\mingw\include\rpcnsip.h
+
+1301114762 c:\program files (x86)\codeblocks\mingw\include\winspool.h
+
+1301114762 c:\program files (x86)\codeblocks\mingw\include\winsock2.h
+	<windows.h>
+
+1301114762 c:\program files (x86)\codeblocks\mingw\include\winsock.h
+	<windows.h>
+	<mswsock.h>
+
+1301114754 c:\program files (x86)\codeblocks\mingw\include\mswsock.h
+
+1301114756 c:\program files (x86)\codeblocks\mingw\include\ole2.h
+	<winerror.h>
+	<objbase.h>
+	<olectlid.h>
+	<oleauto.h>
+	<oleidl.h>
+
+1301114754 c:\program files (x86)\codeblocks\mingw\include\objbase.h
+	<rpc.h>
+	<rpcndr.h>
+	<stdlib.h>
+	<basetyps.h>
+	<wtypes.h>
+	<unknwn.h>
+	<objidl.h>
+	<cguid.h>
+
+1301114756 c:\program files (x86)\codeblocks\mingw\include\objidl.h
+	<objfwd.h>
+
+1301114748 c:\program files (x86)\codeblocks\mingw\include\cguid.h
+
+1301114756 c:\program files (x86)\codeblocks\mingw\include\olectlid.h
+
+1301114756 c:\program files (x86)\codeblocks\mingw\include\oleauto.h
+	<oaidl.h>
+
+1301114754 c:\program files (x86)\codeblocks\mingw\include\oaidl.h
+	<windows.h>
+	<ole2.h>
+
+1301114756 c:\program files (x86)\codeblocks\mingw\include\oleidl.h
+	<objfwd.h>
+
+1301114764 c:\program files (x86)\codeblocks\mingw\include\gl\gl.h
+
+1301114764 c:\program files (x86)\codeblocks\mingw\include\gl\glu.h
+	<stddef.h>
+	<GL/gl.h>
+
+1426364128 c:\program files (x86)\codeblocks\mingw\include\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1426364128 c:\program files (x86)\codeblocks\mingw\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1426364128 c:\program files (x86)\codeblocks\mingw\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1341010376 c:\program files (x86)\codeblocks\mingw\include\time.h
+	<_mingw.h>
+	<stddef.h>
+
+1215468808 c:\program files (x86)\codeblocks\mingw\include\soil.h
+
+1442608712 c:\users\joao matos\desktop\tp1 computacao grafica\include\texturas.h
+
+1442694865 source:c:\users\joao matos\desktop\tp1 computacao grafica\src\tela.cpp
+	"posicao.h"
+	"tamanho.h"
+	<stdlib.h>
+	<GL/freeglut.h>
+	<math.h>
+	<stdio.h>
+	<time.h>
+	<SOIL.h>
+
+1443058378 c:\users\joao matos\desktop\tp1 computacao grafica\include\fundo.h
+	"posicao.h"
+	"tamanho.h"
+	<GL/freeglut.h>
+	<SOIL.h>
+	<SDL_mixer.h>
+	<SDL.h>
+
+1443058185 source:c:\users\joao matos\desktop\tp1 computacao grafica\src\fundo.cpp
+	"fundo.h"
+	"posicao.h"
+	"tamanho.h"
+	<stdlib.h>
+	<GL/freeglut.h>
+	<math.h>
+	<stdio.h>
+	<time.h>
+	<SOIL.h>
+	<SDL_mixer.h>
+	<SDL.h>
+
+1442938853 source:c:\users\joao matos\desktop\tp1 computacao grafica\src\botao.cpp
+	"botao.h"
+	"posicao.h"
+	"tamanho.h"
+	<stdlib.h>
+	<GL/freeglut.h>
+	<math.h>
+	<stdio.h>
+	<time.h>
+	<SOIL.h>
+
+1443058378 c:\users\joao matos\desktop\tp1 computacao grafica\include\botao.h
+	"posicao.h"
+	"tamanho.h"
+	"SOIL.h"
+	<GL/freeglut.h>
+	<SDL_mixer.h>
+	<SDL.h>
+
+1376160025 c:\program files (x86)\codeblocks\mingw\include\sdl_mixer.h
+	"SDL_stdinc.h"
+	"SDL_rwops.h"
+	"SDL_audio.h"
+	"SDL_endian.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940797 c:\program files (x86)\codeblocks\mingw\include\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1394940797 c:\program files (x86)\codeblocks\mingw\include\sdl_config.h
+	"SDL_platform.h"
+
+1443060885 c:\program files (x86)\codeblocks\mingw\include\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1394940797 c:\program files (x86)\codeblocks\mingw\include\begin_code.h
+
+1394940797 c:\program files (x86)\codeblocks\mingw\include\close_code.h
+
+1341010374 c:\program files (x86)\codeblocks\mingw\include\malloc.h
+	<_mingw.h>
+	<stdlib.h>
+
+1341010374 c:\program files (x86)\codeblocks\mingw\include\memory.h
+	<string.h>
+
+1341010376 c:\program files (x86)\codeblocks\mingw\include\strings.h
+	<string.h>
+
+1341010372 c:\program files (x86)\codeblocks\mingw\include\inttypes.h
+	<_mingw.h>
+	<stdint.h>
+	<stddef.h>
+
+1341010376 c:\program files (x86)\codeblocks\mingw\include\stdint.h
+	<stddef.h>
+
+1341010370 c:\program files (x86)\codeblocks\mingw\include\ctype.h
+	<_mingw.h>
+	<stddef.h>
+
+1341010372 c:\program files (x86)\codeblocks\mingw\include\float.h
+	<_mingw.h>
+
+1394940797 c:\program files (x86)\codeblocks\mingw\include\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940796 c:\program files (x86)\codeblocks\mingw\include\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940796 c:\program files (x86)\codeblocks\mingw\include\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940796 c:\program files (x86)\codeblocks\mingw\include\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1394940797 c:\program files (x86)\codeblocks\mingw\include\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940797 c:\program files (x86)\codeblocks\mingw\include\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1394940796 c:\program files (x86)\codeblocks\mingw\include\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	"close_code.h"
+
+1341010374 c:\program files (x86)\codeblocks\mingw\include\process.h
+	<_mingw.h>
+	<sys/types.h>
+	<stdint.h>
+
+1394940797 c:\program files (x86)\codeblocks\mingw\include\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940796 c:\program files (x86)\codeblocks\mingw\include\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940796 c:\program files (x86)\codeblocks\mingw\include\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940796 c:\program files (x86)\codeblocks\mingw\include\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1341010376 c:\program files (x86)\codeblocks\mingw\include\signal.h
+	<_mingw.h>
+
+1394940796 c:\program files (x86)\codeblocks\mingw\include\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940796 c:\program files (x86)\codeblocks\mingw\include\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1394940796 c:\program files (x86)\codeblocks\mingw\include\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940797 c:\program files (x86)\codeblocks\mingw\include\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940797 c:\program files (x86)\codeblocks\mingw\include\sdl_pixels.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940797 c:\program files (x86)\codeblocks\mingw\include\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940797 c:\program files (x86)\codeblocks\mingw\include\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940796 c:\program files (x86)\codeblocks\mingw\include\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1394940796 c:\program files (x86)\codeblocks\mingw\include\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940796 c:\program files (x86)\codeblocks\mingw\include\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1394940797 c:\program files (x86)\codeblocks\mingw\include\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1394940796 c:\program files (x86)\codeblocks\mingw\include\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940796 c:\program files (x86)\codeblocks\mingw\include\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940796 c:\program files (x86)\codeblocks\mingw\include\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940797 c:\program files (x86)\codeblocks\mingw\include\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1394940796 c:\program files (x86)\codeblocks\mingw\include\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940797 c:\program files (x86)\codeblocks\mingw\include\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940796 c:\program files (x86)\codeblocks\mingw\include\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940796 c:\program files (x86)\codeblocks\mingw\include\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940796 c:\program files (x86)\codeblocks\mingw\include\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940796 c:\program files (x86)\codeblocks\mingw\include\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940796 c:\program files (x86)\codeblocks\mingw\include\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940796 c:\program files (x86)\codeblocks\mingw\include\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940797 c:\program files (x86)\codeblocks\mingw\include\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940797 c:\program files (x86)\codeblocks\mingw\include\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940797 c:\program files (x86)\codeblocks\mingw\include\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940797 c:\program files (x86)\codeblocks\mingw\include\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1443059585 c:\users\joao matos\desktop\tp1 computacao grafica\include\som.h
+	<SDL_mixer.h>
+	<SDL.h>
+
+1443058558 source:c:\users\joao matos\desktop\tp1 computacao grafica\src\som.cpp
+	<SDL_mixer.h>
+	<SDL.h>
+	"som.h"
+
+1443148190 source:c:\users\joao matos\desktop\bkp\main.cpp
+	"posicao.h"
+	"tamanho.h"
+	"fundo.h"
+	"mira.h"
+	"botao.h"
+	"alvo.h"
+	<string.h>
+	<math.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<GL/freeglut.h>
+	<time.h>
+	<SOIL.h>
+	"som.h"
+	<SDL_mixer.h>
+
+1442693628 c:\users\joao matos\desktop\bkp\include\posicao.h
+
+1442693628 c:\users\joao matos\desktop\bkp\include\tamanho.h
+
+1443132339 c:\users\joao matos\desktop\bkp\include\fundo.h
+	"posicao.h"
+	"tamanho.h"
+	<GL/freeglut.h>
+	<SOIL.h>
+
+1442694865 c:\users\joao matos\desktop\bkp\include\mira.h
+	"posicao.h"
+	"tamanho.h"
+	<GL/freeglut.h>
+	<SOIL.h>
+
+1443059766 c:\users\joao matos\desktop\bkp\include\botao.h
+	"posicao.h"
+	"tamanho.h"
+	"SOIL.h"
+	<GL/freeglut.h>
+
+1443059766 c:\users\joao matos\desktop\bkp\include\alvo.h
+	"posicao.h"
+	"tamanho.h"
+	<GL/freeglut.h>
+	<SOIL.h>
+
+1443060200 c:\users\joao matos\desktop\bkp\include\som.h
+	<SDL_mixer.h>
+
+1443146306 source:c:\users\joao matos\desktop\bkp\src\alvo.cpp
+	"alvo.h"
+	"posicao.h"
+	"tamanho.h"
+	<stdlib.h>
+	<GL/freeglut.h>
+	<math.h>
+	<stdio.h>
+	<time.h>
+	<SOIL.h>
+	<SDL_mixer.h>
+
+1443147533 source:c:\users\joao matos\desktop\bkp\src\botao.cpp
+	"botao.h"
+	"posicao.h"
+	"tamanho.h"
+	<stdlib.h>
+	<GL/freeglut.h>
+	<math.h>
+	<stdio.h>
+	<time.h>
+	<SOIL.h>
+	"som.h"
+
+1443147575 source:c:\users\joao matos\desktop\bkp\src\fundo.cpp
+	"fundo.h"
+	"posicao.h"
+	"tamanho.h"
+	<stdlib.h>
+	<GL/freeglut.h>
+	<math.h>
+	<stdio.h>
+	<time.h>
+	<SOIL.h>
+
+1443132314 source:c:\users\joao matos\desktop\bkp\src\mira.cpp
+	"mira.h"
+	<stdio.h>
+	<SOIL.h>
+	<GL/freeglut.h>
+
+1441398511 source:c:\users\joao matos\desktop\bkp\src\posicao.cpp
+	"posicao.h"
+
+1443139056 source:c:\users\joao matos\desktop\bkp\src\som.cpp
+	"som.h"
+	<SDL.h>
+	<SDL_mixer.h>
+
+1441979421 source:c:\users\joao matos\desktop\bkp\src\tamanho.cpp
+	"tamanho.h"
+
+1443151790 source:c:\users\joao matos\desktop\tudo\bkp\main.cpp
+	"posicao.h"
+	"tamanho.h"
+	"fundo.h"
+	"mira.h"
+	"botao.h"
+	"alvo.h"
+	<string.h>
+	<math.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<GL/freeglut.h>
+	<time.h>
+	<SOIL.h>
+	"som.h"
+	<SDL_mixer.h>
+
+1442697228 c:\users\joao matos\desktop\tudo\bkp\include\posicao.h
+
+1442697228 c:\users\joao matos\desktop\tudo\bkp\include\tamanho.h
+
+1443135939 c:\users\joao matos\desktop\tudo\bkp\include\fundo.h
+	"posicao.h"
+	"tamanho.h"
+	<GL/freeglut.h>
+	<SOIL.h>
+
+1442698465 c:\users\joao matos\desktop\tudo\bkp\include\mira.h
+	"posicao.h"
+	"tamanho.h"
+	<GL/freeglut.h>
+	<SOIL.h>
+
+1443063366 c:\users\joao matos\desktop\tudo\bkp\include\botao.h
+	"posicao.h"
+	"tamanho.h"
+	"SOIL.h"
+	<GL/freeglut.h>
+
+1443063366 c:\users\joao matos\desktop\tudo\bkp\include\alvo.h
+	"posicao.h"
+	"tamanho.h"
+	<GL/freeglut.h>
+	<SOIL.h>
+
+1443063800 c:\users\joao matos\desktop\tudo\bkp\include\som.h
+	<SDL_mixer.h>
+
+1443149906 source:c:\users\joao matos\desktop\tudo\bkp\src\alvo.cpp
+	"alvo.h"
+	"posicao.h"
+	"tamanho.h"
+	<stdlib.h>
+	<GL/freeglut.h>
+	<math.h>
+	<stdio.h>
+	<time.h>
+	<SOIL.h>
+	<SDL_mixer.h>
+
+1443151133 source:c:\users\joao matos\desktop\tudo\bkp\src\botao.cpp
+	"botao.h"
+	"posicao.h"
+	"tamanho.h"
+	<stdlib.h>
+	<GL/freeglut.h>
+	<math.h>
+	<stdio.h>
+	<time.h>
+	<SOIL.h>
+	"som.h"
+
+1443151175 source:c:\users\joao matos\desktop\tudo\bkp\src\fundo.cpp
+	"fundo.h"
+	"posicao.h"
+	"tamanho.h"
+	<stdlib.h>
+	<GL/freeglut.h>
+	<math.h>
+	<stdio.h>
+	<time.h>
+	<SOIL.h>
+
+1443135914 source:c:\users\joao matos\desktop\tudo\bkp\src\mira.cpp
+	"mira.h"
+	<stdio.h>
+	<SOIL.h>
+	<GL/freeglut.h>
+
+1441402111 source:c:\users\joao matos\desktop\tudo\bkp\src\posicao.cpp
+	"posicao.h"
+
+1443142656 source:c:\users\joao matos\desktop\tudo\bkp\src\som.cpp
+	"som.h"
+	<SDL.h>
+	<SDL_mixer.h>
+
+1441983021 source:c:\users\joao matos\desktop\tudo\bkp\src\tamanho.cpp
+	"tamanho.h"
+
